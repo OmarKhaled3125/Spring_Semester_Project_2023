@@ -1,0 +1,38 @@
+﻿  Main.c
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(49,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(50,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(51,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(52,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(55,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(56,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(57,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(58,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(79,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(80,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(81,31): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(81,52): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(72,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(114,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(115,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(116,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(117,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(131,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(145,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(146,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(136,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(179,36): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(180,29): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(169,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(178,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(197,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(198,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(203,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(231,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(269,32): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(269,63): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(257,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(268,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(383,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(384,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMAR\source\repos\Project1\Project1\Main.c(476,21): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Project1.vcxproj -> C:\Users\OMAR\source\repos\Project1\x64\Debug\Spring_Semester_Project_2023.exe
